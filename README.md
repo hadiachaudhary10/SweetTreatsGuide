@@ -3,8 +3,8 @@ The aim of this test project is to get hands-on experience on SwiftUI developmen
 
 ## ✅ Screenshots
 <p>
-<img src="https://github.com/hadiachaudhary10/TheMealDBProject/blob/main/TheMealDBTestProject/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-02-19%20at%2022.39.02.png" width="200" height="400" />
-<img src="https://github.com/hadiachaudhary10/TheMealDBProject/blob/main/TheMealDBTestProject/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-02-19%20at%2022.39.11.png" width="200" height="400" />
+<img src="https://github.com/hadiachaudhary10/SweetTreatsGuide/blob/main/SweetTreatsGuide/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-02-19%20at%2022.39.02.png" width="200" height="400" />
+<img src="https://github.com/hadiachaudhary10/SweetTreatsGuide/blob/main/SweetTreatsGuide/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-02-19%20at%2022.39.11.png" width="200" height="400" />
 </p>
 
 ## 🚀 Functionality
